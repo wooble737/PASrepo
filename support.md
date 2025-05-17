@@ -1,1 +1,1 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+This is the part where you send me money for rent.

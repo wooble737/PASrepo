@@ -10,5 +10,5 @@
 	"name": "PAS",
 	"version": "v1.0.0",
 	"developer": "Celestial",
-	"description": ""
+	"description": "Mod that calculates the performance and publishes it to an online rating."
 }
